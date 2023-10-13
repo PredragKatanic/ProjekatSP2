@@ -1,13 +1,3 @@
 # ProjekatSP2
-## Tets projekat
+### Test projekat
 
-
-
-## sfsd
-fsd
-- fs
-- df
-- s
-- fs
-df
-s
